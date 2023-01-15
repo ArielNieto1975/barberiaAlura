@@ -211,6 +211,7 @@ td, th {
     width: 90%;
     margin: 0 auto 50px;
     display: flex;
+    justify-content: center;
 }
 .lista-diferenciales{
     width: 40%;
@@ -232,7 +233,7 @@ td, th {
 }
 
 .imagen-diferenciales {
-    width: 60%;
+    width: 40%;
     transition: 400ms;
     box-shadow: 10px 10px 30px 15px #000000 ;
 }
